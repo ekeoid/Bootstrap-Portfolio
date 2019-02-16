@@ -1,5 +1,5 @@
-#### Bootstrap-Portfolio
-#### Homework #2
+** Bootstrap-Portfolio (Homework #2 Part 2) **
+
 
 # Responsiveness Assignment
 
