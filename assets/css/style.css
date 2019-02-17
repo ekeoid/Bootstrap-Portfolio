@@ -30,7 +30,7 @@ li, p, label, input {
 .border-teal { border-color: #4aaaa5 !important; }
 
 .footer-margin {
-    height: 100px;
+    height: 50px;
 }
 
 .navbar {
@@ -58,10 +58,3 @@ li, p, label, input {
 .col {
     border: 1px dotted red;
 }
-
-/*
-h5 {
-    position: relative;
-    bottom: -150px;
-}
-*/
